@@ -42,9 +42,12 @@ class Fruit{
 
 					}
 				//setter
-				Public void setWeight(float newCountry_of_origin) {
-				this.Country_of_origin = newCountry_of_origin;
-
+				Public void setWeight(float newWeight) {
+				this.Weight = newWeight;
+				
+				}
+						
+				
 
 
 
@@ -57,8 +60,7 @@ class Apple extends Fruit{
 
 
 public class fruitProject {
-
-    public static void main(String[] args) {
+	public static void main(string
 
 
     }
