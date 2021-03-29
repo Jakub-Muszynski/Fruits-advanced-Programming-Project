@@ -28,7 +28,6 @@ class Fruit{
 				public float getPrice_per_kilo() {
 					return Price_per_kilo;
 
-
 					}
 
 				//setter
@@ -40,7 +39,8 @@ class Fruit{
 					public float getWeight() {
 						return Weight;
 
-					}
+				}
+		     
 				//setter
 				Public void setWeight(float newWeight) {
 				this.Weight = newWeight;
@@ -48,12 +48,6 @@ class Fruit{
 				}
 						
 				
-
-
-
-
-
-
 class Apple extends Fruit{
 
 }
