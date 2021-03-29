@@ -1,6 +1,6 @@
 # Fruits-advanced-Programming-Project
 
-This repository is dedicated to creating working Javascript programming code, All code must fully commented and  use a standard
+This repository is dedicated to creating working Java programming code, All code must fully commented and  use a standard
 naming convention for all classes, objects and variables.
 
 the working programming code must include the following:
