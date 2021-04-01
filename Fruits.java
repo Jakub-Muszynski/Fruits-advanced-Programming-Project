@@ -45,8 +45,7 @@ class Fruit{
 				this.Weight = newWeight;
 				
 				}
-						
-				
+							
 class Apple extends Fruit{
 
 }
