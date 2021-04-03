@@ -22,4 +22,4 @@ Another fruit subclass of your own choice which consists of:
 - At least two properties
 - Set and get methods for each property
 - Constructor
-- __toString() method which prints out all properties
+- __toString() method which prints out all properties.
