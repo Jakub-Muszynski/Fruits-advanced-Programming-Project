@@ -59,5 +59,11 @@ public class fruitProject {
 			public string getWeight() {
 					return Weight;
 				
+			 }		
+				
+			//setter
+			Public void setWeight(string newWeight) {
+				this.Weight = newWeight;	
+				
 
 
