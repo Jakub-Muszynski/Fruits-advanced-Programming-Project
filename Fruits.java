@@ -55,5 +55,10 @@ public class fruitProject {
 
     }
 				
+			
+				//getter
+			public string getWeight() {
+					return Weight;
+				
 
 
