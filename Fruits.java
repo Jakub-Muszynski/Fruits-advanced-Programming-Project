@@ -65,5 +65,6 @@ public class fruitProject {
 			Public void setWeight(string newWeight) {
 				this.Weight = newWeight;	
 				
+			 }
 
 
