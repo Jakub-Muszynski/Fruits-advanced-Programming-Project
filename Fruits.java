@@ -54,8 +54,7 @@ public class fruitProject {
 	public static void main(string
 
     }
-				
-			
+					
 				//getter
 			public string getWeight() {
 					return Weight;
