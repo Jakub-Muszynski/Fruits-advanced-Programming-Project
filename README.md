@@ -3,7 +3,7 @@
 This repository is dedicated to creating working Java programming code, All code must fully commented and  use a standard
 naming convention for all classes, objects and variables.
 
-the working programming code must include the following:
+the working programming code must include the following-
 
 An Apple subclass which inherits from Fruit which consists of:
 - At least two properties
