@@ -8,7 +8,7 @@ class Fruit{
 	public Fruit(string Country_of_origin, float Price_per_kilo, float weight{
 	this.County_of_origin = country_of_origin;
 		this.Price_per_kilo = Price_per_kilo;
-			this.Weight = Weight
+			this.Weight = Weight;
 
 }
 
