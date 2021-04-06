@@ -6,7 +6,7 @@ naming convention for all classes, objects and variables.
 the working programming code must include the following:
 
 An Apple subclass which inherits from Fruit which consists of:
-- At least two properties
+- At least two properties that inherit from fruit
 - Set and get methods for each property
 - Constructor
 - Destructor
