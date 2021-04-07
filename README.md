@@ -12,6 +12,7 @@ An Apple subclass which inherits from fruit which consists of:
 - Destructor
 - __toString( ) method which prints out all properties
 
+
 A UML diagram showing the Fruit and Apple classes
 An Orange subclass which inherits from Fruit which consists of:
 - At least two properties
