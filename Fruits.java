@@ -11,7 +11,6 @@ class Fruit{
 			this.Weight = Weight;
 
 }
-
 			//getter
 			public string getCountry_of_origin() {
 					return Country_of_origin;
