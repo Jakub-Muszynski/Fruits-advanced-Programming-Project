@@ -66,5 +66,3 @@ public class fruitProject {
 				this.Weight = newWeight;	
 				
 			 }
-
-
