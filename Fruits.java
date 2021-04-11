@@ -47,7 +47,7 @@ class Fruit{
 				
 				}
 							
-class Apple extends Fruit
+class Apple extends Fruit {
 
 }
 
