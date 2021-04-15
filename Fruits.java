@@ -11,8 +11,7 @@ class Fruit{
 		this.Price_per_kilo = Price_per_kilo;
 			this.Weight = Weight;
 
-}
-		     
+}  
 		     
 			//getter
 			public string getCountry_of_origin() {
