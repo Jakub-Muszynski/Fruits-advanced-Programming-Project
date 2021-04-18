@@ -4,7 +4,6 @@ class Fruit{
 	String Country_of_origin;
 	float Price_per_kilo;
 	float Weight
-		
 	//constructor
 	public Fruit(string Country_of_origin, float Price_per_kilo, float weight{
 	this.County_of_origin = country_of_origin;
