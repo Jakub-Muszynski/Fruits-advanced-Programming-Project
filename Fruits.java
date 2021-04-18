@@ -51,7 +51,6 @@ class Apple extends Fruit {
 
 }
 		     
-
 public class fruitProject {
 	public static void main(string
 
